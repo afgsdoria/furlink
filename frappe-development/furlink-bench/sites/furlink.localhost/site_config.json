@@ -1,0 +1,6 @@
+{
+ "db_name": "furlink_db",
+ "db_password": "KvonseAl0jtGXIqQ",
+ "db_type": "mariadb",
+ "developer_mode": 1
+}

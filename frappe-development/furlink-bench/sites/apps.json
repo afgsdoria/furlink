@@ -1,0 +1,21 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "14.97.0"
+    },
+    "furlink": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "144b0f3723a38718aa5e4b9f52bc679782211cbd",
+            "branch": "main"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "0.0.1"
+    }
+}
