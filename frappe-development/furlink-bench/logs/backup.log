@@ -1,0 +1,6 @@
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u furlink_db -p********** furlink_db -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./furlink.localhost/private/backups/20250921_200002-furlink_localhost-database.sql.gz
+
+Backup Summary for furlink.localhost at 2025-09-21 20:00:02.550569
+Config  : ./furlink.localhost/private/backups/20250921_200002-furlink_localhost-site_config_backup.json 109.0B
+Database: ./furlink.localhost/private/backups/20250921_200002-furlink_localhost-database.sql.gz         227.1KiB
+Backup for Site furlink.localhost has been successfully completed
