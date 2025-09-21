@@ -1,0 +1,24 @@
+2025-09-21 18:00:24,449 INFO ipython === bench console session ===
+2025-09-21 18:00:24,449 INFO ipython from frappe import db
+2025-09-21 18:00:24,449 INFO ipython db.set_valu("Website Setting", "Website Settings", "default_role", "Pet Owner")
+2025-09-21 18:00:24,450 INFO ipython === session end ===
+2025-09-21 18:13:35,452 INFO ipython === bench console session ===
+2025-09-21 18:13:35,452 INFO ipython import frappe
+2025-09-21 18:13:35,452 INFO ipython from frappe.utils import random_string
+2025-09-21 18:13:35,452 INFO ipython user = frappe.get_doc({
+    "doctype": "User",
+    "email": "testowner@furlink.com",
+    "first_name": "Test", 
+    "last_name": "Owner",
+    "username": "testowner",
+    "enabled": 1,
+    "send_welcome_email": 0,
+    "roles": [{"role": "Pet Owner"}]
+})
+2025-09-21 18:13:35,453 INFO ipython user.insert()
+2025-09-21 18:13:35,453 INFO ipython user.reset_password("testpassword123")
+2025-09-21 18:13:35,453 INFO ipython frappe.db.commit()
+2025-09-21 18:13:35,453 INFO ipython print("Test user created successfully")
+2025-09-21 18:13:35,453 INFO ipython === session end ===
+2025-09-21 18:47:37,855 INFO ipython === bench console session ===
+2025-09-21 18:47:37,856 INFO ipython === session end ===
