@@ -1,0 +1,42 @@
+2025-09-22 03:51:09,806 ERROR frappe New Exception collected with id: 2025-09-22 03:51:09.688639-136.158.2.7-33f
+Site: furlink.localhost
+Form Dict: {'email': 'juandcruz@gmail.com', 'full_name': 'Juan Dela Cruz', 'password': '********', 'cmd': 'frappe.core.doctype.user.user.sign_up'}
+2025-09-22 03:51:11,434 ERROR frappe New Exception collected with id: 2025-09-22 03:51:11.431126-136.158.2.7-ac2
+Site: furlink.localhost
+Form Dict: {'email': 'juandcruz@gmail.com', 'full_name': 'Juan Dela Cruz', 'password': '********', 'cmd': 'frappe.core.doctype.user.user.sign_up'}
+2025-09-22 03:51:13,328 ERROR frappe New Exception collected with id: 2025-09-22 03:51:13.326060-136.158.2.7-7a6
+Site: furlink.localhost
+Form Dict: {'email': 'juandcruz@gmail.com', 'full_name': 'Juan Dela Cruz', 'password': '********', 'cmd': 'frappe.core.doctype.user.user.sign_up'}
+2025-09-22 03:51:13,576 ERROR frappe New Exception collected with id: 2025-09-22 03:51:13.574664-136.158.2.7-a80
+Site: furlink.localhost
+Form Dict: {'email': 'juandcruz@gmail.com', 'full_name': 'Juan Dela Cruz', 'password': '********', 'cmd': 'frappe.core.doctype.user.user.sign_up'}
+2025-09-22 03:51:13,663 ERROR frappe New Exception collected with id: 2025-09-22 03:51:13.661075-136.158.2.7-f20
+Site: furlink.localhost
+Form Dict: {'email': 'juandcruz@gmail.com', 'full_name': 'Juan Dela Cruz', 'password': '********', 'cmd': 'frappe.core.doctype.user.user.sign_up'}
+2025-09-22 03:51:13,959 ERROR frappe New Exception collected with id: 2025-09-22 03:51:13.957119-136.158.2.7-73e
+Site: furlink.localhost
+Form Dict: {'email': 'juandcruz@gmail.com', 'full_name': 'Juan Dela Cruz', 'password': '********', 'cmd': 'frappe.core.doctype.user.user.sign_up'}
+2025-09-22 03:51:14,268 ERROR frappe New Exception collected with id: 2025-09-22 03:51:14.266671-136.158.2.7-f8d
+Site: furlink.localhost
+Form Dict: {'email': 'juandcruz@gmail.com', 'full_name': 'Juan Dela Cruz', 'password': '********', 'cmd': 'frappe.core.doctype.user.user.sign_up'}
+2025-09-22 03:51:14,467 ERROR frappe New Exception collected with id: 2025-09-22 03:51:14.465022-136.158.2.7-a47
+Site: furlink.localhost
+Form Dict: {'email': 'juandcruz@gmail.com', 'full_name': 'Juan Dela Cruz', 'password': '********', 'cmd': 'frappe.core.doctype.user.user.sign_up'}
+2025-09-22 03:51:16,567 ERROR frappe New Exception collected with id: 2025-09-22 03:51:16.565706-136.158.2.7-248
+Site: furlink.localhost
+Form Dict: {'email': 'juandcruz@gmail.com', 'full_name': 'Juan Dela Cruz', 'password': '********', 'cmd': 'frappe.core.doctype.user.user.sign_up'}
+2025-09-22 03:51:16,859 ERROR frappe New Exception collected with id: 2025-09-22 03:51:16.856589-136.158.2.7-1b5
+Site: furlink.localhost
+Form Dict: {'email': 'juandcruz@gmail.com', 'full_name': 'Juan Dela Cruz', 'password': '********', 'cmd': 'frappe.core.doctype.user.user.sign_up'}
+2025-09-22 03:51:17,040 ERROR frappe New Exception collected with id: 2025-09-22 03:51:17.038954-136.158.2.7-3e7
+Site: furlink.localhost
+Form Dict: {'email': 'juandcruz@gmail.com', 'full_name': 'Juan Dela Cruz', 'password': '********', 'cmd': 'frappe.core.doctype.user.user.sign_up'}
+2025-09-22 03:51:17,312 ERROR frappe New Exception collected with id: 2025-09-22 03:51:17.309982-136.158.2.7-7b2
+Site: furlink.localhost
+Form Dict: {'email': 'juandcruz@gmail.com', 'full_name': 'Juan Dela Cruz', 'password': '********', 'cmd': 'frappe.core.doctype.user.user.sign_up'}
+2025-09-22 03:51:17,543 ERROR frappe New Exception collected with id: 2025-09-22 03:51:17.541493-136.158.2.7-f2b
+Site: furlink.localhost
+Form Dict: {'email': 'juandcruz@gmail.com', 'full_name': 'Juan Dela Cruz', 'password': '********', 'cmd': 'frappe.core.doctype.user.user.sign_up'}
+2025-09-22 03:51:17,732 ERROR frappe New Exception collected with id: 2025-09-22 03:51:17.730370-136.158.2.7-1e8
+Site: furlink.localhost
+Form Dict: {'email': 'juandcruz@gmail.com', 'full_name': 'Juan Dela Cruz', 'password': '********', 'cmd': 'frappe.core.doctype.user.user.sign_up'}
